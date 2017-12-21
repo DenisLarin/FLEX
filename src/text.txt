@@ -1,0 +1,5 @@
+while (a:=0; a<3;a:= a+1) do s:="test"; m:=4; z:=5.3;
+while (q:=0; q<3;q:= q+1) do w:="test"; e:=4; r:=5.3;
+done;
+t:=213213;
+done;
